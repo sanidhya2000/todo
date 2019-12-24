@@ -1,0 +1,30 @@
+.title{
+	font-size: 5em;
+	color:#ffb700;
+	font-weight: bold;
+	
+	
+
+}
+.header{
+	
+	display: inline-flex;
+	position: relative;
+	align-items: center;
+	border-bottom: 10px;
+	border-bottom :1px white solid;
+	border-color: rgba(255,255,255,0.5)
+
+
+}
+.button{
+	right:0;
+	position: absolute;
+	font-size: 2em;
+}
+
+.addButton{
+	background-color: grey;
+	border-radius: 25%;
+
+}
